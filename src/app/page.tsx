@@ -30,7 +30,7 @@ export default function  Home(){
 You can also publish a note to the internet and share the URL with others.
 </div><br/><br/><button className='bg-[#4F9CF9] px-4 py-4 font-sans rounded-md text-xs  '>Try it Now &#x2192;</button></div>
       </div></div>
-      <div className='flex py-20'><div className='px-[180]'><div className='pt-16 font-sans  text-5xl font-bold py-4'><b>Use as Extension</b></div><div className='font-sans pr-4 '>Use the web clipper extension, available on Chrome and Firefox, to save web pages<br/> or take screenshots as notes.
+      <div className='flex py-20'><div className='px-[180]'><div className='pt-12 font-sans  text-5xl font-bold py-4'><b>Use as Extension</b></div><div className='font-sans pr-4 '>Use the web clipper extension, available on Chrome and Firefox, to save web pages<br/> or take screenshots as notes.
       </div><br/><br/><button className='bg-[#4F9CF9] px-4 py-4 font-sans rounded-md text-xs  '>Let&apos;s Go &#x2192;</button></div>
       <div className='flex-1 mx-24  w-[560] h-[390] bg-sky-200'></div>
       </div> 
