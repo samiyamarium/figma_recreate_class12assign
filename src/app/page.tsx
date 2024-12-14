@@ -22,11 +22,11 @@ export default function  Home(){
       </div> 
      <div className='flex py-8 bg-white'>
       <div className='bg-white px-[180] '><div className='pt-20 text-black font-sans  text-5xl font-bold py-4'><b>Project<br/> Management</b></div><br/><div className='font-sans  text-black text-[10]  '>Images, videos, PDFs and audio files are supported. Create math expressions and <br/>diagrams directly from the app. Take photos with the mobile app and save<br/> them to a note.</div><br/><br/><button className='bg-[#4F9CF9] px-4 py-4 font-sans rounded-md text-xs  '>Get Started &#x2192;</button></div>
-      <div className='-mx-[160] pt-20'><div className='flex-1   w-[510] h-[390] bg-sky-300'></div></div></div>
+      <div className=' mx-24 pt-20'><div className='flex-1   w-[510] h-[390] bg-sky-300'></div></div></div>
    
       <div className='flex py-8 bg-white'>
         <div className='pt-12 px-[180] flex'> <Image className='w-[450] '  src={wo} alt=''/>
-      <div className='bg-white px-[180] -ml-8] '><div className=' pt-40 text-black font-sans  text-5xl font-bold py-4'><b>Work together</b></div><br/><div className='font-sans  text-black text-[10]  '> With whitepace, share your notes with your colleagues and collaborate on them.<br/>
+      <div className='bg-white px-[180]  mx-8] '><div className=' pt-40 text-black font-sans  text-5xl font-bold py-4'><b>Work together</b></div><br/><div className='font-sans  text-black text-[10]  '> With whitepace, share your notes with your colleagues and collaborate on them.<br/>
 You can also publish a note to the internet and share the URL with others.
 </div><br/><br/><button className='bg-[#4F9CF9] px-4 py-4 font-sans rounded-md text-xs  '>Try it Now &#x2192;</button></div>
       </div></div>
@@ -36,7 +36,7 @@ You can also publish a note to the internet and share the URL with others.
       </div> 
       <div className='flex py-8 bg-white px-[180]'>
       <div className=' pt-20'><div className='flex-1   w-[550] h-[560] bg-sky-200'></div></div>
-      <div className=' px-[180] -mx-8 pt-28'><div className='pt-20 text-black font-sans  text-4xl font-bold py-4'><b>Customise it
+      <div className=' px-[180] mx-8 pt-28'><div className='pt-20 text-black font-sans  text-4xl font-bold py-4'><b>Customise it
       to<br/> your needs</b></div><br/><div className='font-sans  text-black text-[10]  '>Customise the app with plugins, custom themes and multiple text editors &#40;Rich<br/> Text or Markdown&#41;. Or create your own scripts and plugins using the Extension API.</div><br/><br/><button className='bg-[#4F9CF9] px-4 py-4 font-sans rounded-md text-xs  '>Let&apos;s Go &#x2192;</button></div>
      </div>
      <div className=' px-[340] ] '><div className=' pt-20 text-white font-sans  text-5xl  font-bold py-4'><b>Your work, everywhere you are</b></div>
