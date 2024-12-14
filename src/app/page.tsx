@@ -18,7 +18,7 @@ export default function  Home(){
   <button className='rounded-md text-[#043873] bg-[#FFE492] font-sans px-4 tracking-wide  py-1'>Login</button>
       </div><br/><br/>
       <div className='flex py-20 '><div className='px-[180]'><div className='pt-20 font-sans  text-5xl font-bold py-4'><b>Get More Done with<br/> whitespace</b></div><div className='font-sans text-xs '>Project management software that enables your teams to collaborate, plan, <br/>analyze and manage everyday tasks</div><br/><br/><button className='bg-[#4F9CF9] px-4 py-4 font-sans rounded-md text-xs  '>Try WhiteSpace free &#x2192;</button></div>
-      <div className='-mx-[160]'><div className='flex-1   w-[560] h-[390] bg-sky-200'></div></div>
+      <div className='flex-1   w-[560] h-[390] bg-sky-200'></div>
       </div> 
      <div className='flex py-8 bg-white'>
       <div className='bg-white px-[180] '><div className='pt-20 text-black font-sans  text-5xl font-bold py-4'><b>Project<br/> Management</b></div><br/><div className='font-sans  text-black text-[10]  '>Images, videos, PDFs and audio files are supported. Create math expressions and <br/>diagrams directly from the app. Take photos with the mobile app and save<br/> them to a note.</div><br/><br/><button className='bg-[#4F9CF9] px-4 py-4 font-sans rounded-md text-xs  '>Get Started &#x2192;</button></div>
