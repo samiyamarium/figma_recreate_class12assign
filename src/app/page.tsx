@@ -22,7 +22,7 @@ export default function  Home(){
       </div> 
      <div className='flex py-8 bg-white'>
       <div className='bg-white px-[180] '><div className='pt-20 text-black font-sans  text-5xl font-bold py-4'><b>Project<br/> Management</b></div><br/><div className='font-sans  text-black text-[10]  '>Images, videos, PDFs and audio files are supported. Create math expressions and <br/>diagrams directly from the app. Take photos with the mobile app and save<br/> them to a note.</div><br/><br/><button className='bg-[#4F9CF9] px-4 py-4 font-sans rounded-md text-xs  '>Get Started &#x2192;</button></div>
-      <div className='flex-1  pt-20 w-[510] h-[390] bg-sky-300'></div></div>
+      <div className='flex-1 mx-28 pt-20 w-[510] h-[390] bg-sky-300'></div></div>
    
       <div className='flex py-8 bg-white'>
         <div className='pt-12 px-[180] flex'> <Image className='w-[450] '  src={wo} alt=''/>
@@ -32,7 +32,7 @@ You can also publish a note to the internet and share the URL with others.
       </div></div>
       <div className='flex py-20'><div className='px-[180]'><div className='pt-20 font-sans  text-5xl font-bold py-4'><b>Use as Extension</b></div><div className='font-sans pr-4 '>Use the web clipper extension, available on Chrome and Firefox, to save web pages<br/> or take screenshots as notes.
       </div><br/><br/><button className='bg-[#4F9CF9] px-4 py-4 font-sans rounded-md text-xs  '>Let&apos;s Go &#x2192;</button></div>
-      <div className='flex-1 px-4  w-[560] h-[390] bg-sky-200'></div>
+      <div className='flex-1 mx-24  w-[560] h-[390] bg-sky-200'></div>
       </div> 
       <div className='flex py-8 bg-white px-[180]'>
       <div className=' pt-20'><div className='flex-1   w-[550] h-[560] bg-sky-200'></div></div>
