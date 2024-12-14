@@ -39,7 +39,7 @@ You can also publish a note to the internet and share the URL with others.
       <div className='  mx-8 pt-28'><div className='pt-12 text-black font-sans  text-4xl font-bold py-4'><b>Customise it
       to<br/> your needs</b></div><br/><div className='font-sans  text-black text-[10]  '>Customise the app with plugins, custom themes and multiple text editors &#40;Rich<br/> Text or Markdown&#41;. Or create your own scripts and plugins using the Extension API.</div><br/><br/><button className='bg-[#4F9CF9] px-4 py-4 font-sans rounded-md text-xs  '>Let&apos;s Go &#x2192;</button></div>
      </div>
-     <div className=' px- 60 '><div className=' pt-20 text-white font-sans  text-5xl  font-bold py-4'><b>Your work, everywhere you are</b></div>
+     <div className=' mx- 48 '><div className=' pt-20 text-white font-sans  text-5xl  font-bold py-4'><b>Your work, everywhere you are</b></div>
      <br/><div className='px-4 font-sans  text-white text-[8]  '>Access your notes from your computer, phone or tablet by synchronising with various services, including whitespace, Dropbox and OneDrive. The app is available on Windows, macOS, Linux, Android and iOS. A terminal app is also available!</div><br/><br/><div className='px-[300]'><button className='bg-[#4F9CF9] px-4 py-4  font-sans rounded-md text-xs  '>Try TasKey &#x2192;</button></div></div>
     <div ><div className='bg-white pt-16 font-sans text-5xl text-black text-center font-bold'><b>Our Sponsors</b><br/><br/><div className='ml-80 flex gap-36 w-28 h-8 ' ><Image src={s1} alt=''/><Image src={s2} alt=''/><Image src={s3} alt=''/><Image src={s4} alt=''/></div><br/></div></div>
      <div className=' flex pt-20 px-[180] text-white gap-32'>
