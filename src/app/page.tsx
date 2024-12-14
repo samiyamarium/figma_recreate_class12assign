@@ -36,7 +36,7 @@ You can also publish a note to the internet and share the URL with others.
       </div> 
       <div className='flex py-8 bg-white '>
       <div className=' pt-20 flex-1 mx-8   w-[550] h-[560] bg-sky-200'></div>
-      <div className='  mx-8 pt-28'><div className='pt-20 text-black font-sans  text-4xl font-bold py-4'><b>Customise it
+      <div className='  mx-8 pt-28'><div className='pt-12 text-black font-sans  text-4xl font-bold py-4'><b>Customise it
       to<br/> your needs</b></div><br/><div className='font-sans  text-black text-[10]  '>Customise the app with plugins, custom themes and multiple text editors &#40;Rich<br/> Text or Markdown&#41;. Or create your own scripts and plugins using the Extension API.</div><br/><br/><button className='bg-[#4F9CF9] px-4 py-4 font-sans rounded-md text-xs  '>Let&apos;s Go &#x2192;</button></div>
      </div>
      <div className=' px- 60 '><div className=' pt-20 text-white font-sans  text-5xl  font-bold py-4'><b>Your work, everywhere you are</b></div>
